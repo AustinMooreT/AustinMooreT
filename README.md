@@ -1,4 +1,4 @@
 ### Austin Moore
 
-I'm a junior software developer who loves tinkering with modern C++, building pure functional programs in Haskell, and learning cool mathematics.
-
+Software engineer working mainly with C++ and Python using Qt, numpy, Open3D, etc. To build automated sensing platforms.
+Here on github I like to tinker with Emacs, Haskell, and any random thing that strikes me as interesting.
